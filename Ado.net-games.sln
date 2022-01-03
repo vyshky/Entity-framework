@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console-Ado.net-games", "Console-Ado.net-games\Console-Ado.net-games.csproj", "{B7910F52-0735-4868-BB64-57655DD5381B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model-GamesInfo", "Model-GamesInfo\Model-GamesInfo.csproj", "{6568AF48-A659-4364-BD2E-80E531FE2A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib-DB", "Lib-DB\Lib-DB.csproj", "{8BE32720-A331-4EEE-8AF6-FCE79B688FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7910F52-0735-4868-BB64-57655DD5381B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7910F52-0735-4868-BB64-57655DD5381B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7910F52-0735-4868-BB64-57655DD5381B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7910F52-0735-4868-BB64-57655DD5381B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6568AF48-A659-4364-BD2E-80E531FE2A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6568AF48-A659-4364-BD2E-80E531FE2A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6568AF48-A659-4364-BD2E-80E531FE2A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6568AF48-A659-4364-BD2E-80E531FE2A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE32720-A331-4EEE-8AF6-FCE79B688FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE32720-A331-4EEE-8AF6-FCE79B688FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE32720-A331-4EEE-8AF6-FCE79B688FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE32720-A331-4EEE-8AF6-FCE79B688FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
